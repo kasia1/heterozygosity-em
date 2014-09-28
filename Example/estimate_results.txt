@@ -1,0 +1,4 @@
+homozygous_ancestral=9.874761e-01
+heterozygous=8.551837e-04
+homozygous_derived=1.166869e-02
+

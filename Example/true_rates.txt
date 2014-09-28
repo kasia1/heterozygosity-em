@@ -1,0 +1,3 @@
+heterozygous = 0.000858271
+homozygous_ancestral = 0.987475
+homozygous_derived = 0.011666676
