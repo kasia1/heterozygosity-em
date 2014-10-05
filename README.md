@@ -24,10 +24,10 @@ To help the EM give our desired outcome, namely, to converge to three states tha
 
 ###### Assumptions on input data:  
 * We assume that the rows capture the different permutations of allele combinations of the reference panel, and that the first row corresponds to the ancestral state for all individuals, which should, for sequence data, be the vast majority of the data. The last row should correspond to the state with all derived alleles.
-* We assume that the columns correspond to counts of derived allele, such that the first column is 0 derived alleles, and the _n_th column corresponds to _n_ derived alleles.
+* We assume that the columns correspond to counts of derived allele, such that the first column is 0 derived alleles, and the nth column corresponds to n derived alleles.
 * As a matter of formatting, we only allow integer counts of the data, with space-separated values.
 
 It is possible that other data formats would still converge to the genotypic states, so you can give it a shot, but if your results don't make much sense, that may the be first place to troubleshoot.
 
 ## Troubleshooting
-
+Something doesn't work? Let me know. But first, make sure that your input file looks just like the example allele count file. 
